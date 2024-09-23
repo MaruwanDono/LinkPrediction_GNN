@@ -1,2 +1,2 @@
 # LinkPrediction_GNN
-Link prediction in a graph with a Graph Neural Network
+Kaggle competition for link prediction in a graph with a Graph Neural Network.
